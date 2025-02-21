@@ -55,3 +55,7 @@ console.log(result);
 
 - `result`: Array of missing translations per language (null if all translations are complete)
 - `status`: Boolean indicating if all translations are complete
+
+## License
+
+MIT © [MIT license](https://github.com/byldrma3/translint/blob/main/LICENSE)

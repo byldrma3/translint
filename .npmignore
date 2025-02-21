@@ -4,4 +4,5 @@ src/
 jest.config.js
 tsconfig.json
 .yarnrc.yml
-*.log 
+*.log
+.npmrc

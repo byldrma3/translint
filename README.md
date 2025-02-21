@@ -20,7 +20,7 @@ yarn add @byldrma3/translint
 ## Usage
 
 ```typescript
-import { TransLint } from 'translint';
+import { TransLint } from '@byldrma3/translint';
 
 const languages = {
   en: {

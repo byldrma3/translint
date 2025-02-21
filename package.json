@@ -1,7 +1,12 @@
 {
   "name": "@byldrma3/translint",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A TypeScript package to check language files for missing translations",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/byldrma3/translint.git"
+  },
+  "homepage": "https://github.com/byldrma3/translint#readme",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
@@ -27,5 +32,9 @@
     "jest": "^29.7.0",
     "ts-jest": "^29.1.2",
     "typescript": "^5.4.2"
-  }
+  },
+  "files": [
+    "dist",
+    "README.md"
+  ]
 }

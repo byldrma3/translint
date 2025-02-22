@@ -1,6 +1,6 @@
 {
   "name": "@byldrma3/translint",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A TypeScript package to check language files for missing translations",
   "repository": {
     "type": "git",
